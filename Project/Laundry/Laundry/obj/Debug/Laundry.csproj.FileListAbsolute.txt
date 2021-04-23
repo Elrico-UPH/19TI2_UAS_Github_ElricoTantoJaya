@@ -1,0 +1,15 @@
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.csprojAssemblyReference.cache
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.csproj.GenerateResource.cache
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.csproj.CoreCompileInputs.cache
+C:\Elrico coding dekstop\Project\Laundry\Laundry\bin\Debug\Laundry.exe.config
+C:\Elrico coding dekstop\Project\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Elrico coding dekstop\Project\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.exe
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.pdb
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.UI.FormMainPage.resources
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.UI.FormKelolaAdmin.resources
+C:\Elrico coding dekstop\Project\Laundry\Laundry\bin\Debug\DB\DB_Project.accdb
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.UI.FormDataPelanggan.resources
+C:\Elrico coding dekstop\Project\Laundry\Laundry\obj\Debug\Laundry.UI.FormKelolaLaundry.resources
